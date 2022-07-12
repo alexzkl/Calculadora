@@ -1,0 +1,8 @@
+n1 = int(input('Escolha um numero? '))
+n2 = int(input('Escolha outro numero? '))
+print(' {} + {} = {} Adição'.format(n1, n2, n1+n2))
+print(' {} - {} = {} Menos'.format(n1, n2, n1-n2))
+print(' {} x {} = {} Multiplicação'.format(n1, n2, n1*n2))
+print(' {} / {} = {} Divizão'.format(n1, n2, n1/n2))
+print(' {} % {} = {} Resto'.format(n1, n2, n1%n2))
+print(' {} ^ {} = {} Potência'.format(n1, n2, n1**n2))
